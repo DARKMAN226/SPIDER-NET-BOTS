@@ -18,12 +18,12 @@
 
 
 <p align="center">
-<a href="https://github.com/Passkey-md"><img title="Proprio" src="https://img.shields.io/badge/Proprio-MD HACKER-red.svg?style=for-the-badge&logo=github" width="185px"
+<a href="https://github.com/kouakou669"><img title="Proprio" src="https://img.shields.io/badge/Proprio-MD HACKER-red.svg?style=for-the-badge&logo=github" width="185px"
 
 </p>
 
 
-### Termux Command guide 
+### Commande du guide termux 
 
  ```bash
 termux-setup-storage
