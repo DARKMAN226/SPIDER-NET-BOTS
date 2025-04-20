@@ -1,16 +1,16 @@
-<h1 align="center">Phantom-bug-bot</h1>
+<h1 align="center">SPIDER-NET-BOTS</h1>
 
 <p align="center">
-  <a href="https://gihtub.com/Passkey-md">
+  <a href="https://gihtub.com/kouakou669">
 
 </p>
 
 <p align="center">
-  <a href="https://github.com/Passkey-md/Phantom-bug-bot/fork">
-    <img src="https://img.shields.io/github/forks/Passkey-md/Phantom-bug-bot?label=Fork&style=social">
+  <a href="https://github.com/kouakou669/SPIDER-NET-BOTS/fork">
+    <img src="https://img.shields.io/github/forks/kouakou669/SPIDER-NET-BOTS?label=Fork&style=social">
     
     
-  <a href="https://github.com/Passkey-md/Phantom-bug-bot/stargazers"> 
+  <a href="https://github.com/kouakou669/SPIDER-NET-BOTS/stargazers"> 
     <img src="https://img.shields.io/github/stars/Passkey-md?style=social">
   </a>
 
@@ -39,7 +39,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Passkey-md/Phantom-bug-bot
+git clone https://github.com/DARKMAN226/SPIDER-NET-BOTS
 cd Phantom-bug-bot
 yarn install 
 npm i
